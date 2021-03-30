@@ -1,0 +1,14 @@
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\ElevenNote.Tests.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\ElevenNote.Tests.pdb
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csprojAssemblyReference.cache
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CopyComplete
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.pdb

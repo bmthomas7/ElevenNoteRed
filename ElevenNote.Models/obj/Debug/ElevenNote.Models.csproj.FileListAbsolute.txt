@@ -1,0 +1,6 @@
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\bmtho\OneDrive\Desktop\Elevenfiftyprojects\elevenfiftyredbadge\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
